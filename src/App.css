@@ -1,0 +1,29 @@
+.Light{
+  background-color: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+ margin-top: 0;
+  /* line-height: 0.8; */
+
+}
+.Dark{
+  background-color: black;
+  color:#8ef6e4;
+  display: flex;
+  flex-direction: column;
+  /* line-height: 0.8; */
+  margin-top: 0;
+}
+
+p{
+  margin: 0;
+  font-size: large;
+}
+.Home{
+  margin-top: 20px;
+}
+.btn{
+  font-size: medium;
+  width: 200px;
+}
